@@ -42,6 +42,7 @@
 			children = (
 				174C22C32C41055500C3783D /* StepperProject */,
 				174C22C22C41055500C3783D /* Products */,
+				174C22DB2C41176000C3783D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -67,6 +68,13 @@
 			path = StepperProject;
 			sourceTree = "<group>";
 		};
+		174C22DB2C41176000C3783D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -83,6 +91,8 @@
 			dependencies = (
 			);
 			name = StepperProject;
+			packageProductDependencies = (
+			);
 			productName = StepperProject;
 			productReference = 174C22C12C41055500C3783D /* StepperProject.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +121,8 @@
 				Base,
 			);
 			mainGroup = 174C22B82C41055500C3783D;
+			packageReferences = (
+			);
 			productRefGroup = 174C22C22C41055500C3783D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
